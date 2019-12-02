@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/madhangog/todoReact/static/css/main.63887305.chunk.css",
+    "main.js": "/madhangog/todoReact/static/js/main.6b6ed99c.chunk.js",
+    "main.js.map": "/madhangog/todoReact/static/js/main.6b6ed99c.chunk.js.map",
+    "runtime~main.js": "/madhangog/todoReact/static/js/runtime~main.f5d9b7fa.js",
+    "runtime~main.js.map": "/madhangog/todoReact/static/js/runtime~main.f5d9b7fa.js.map",
+    "static/js/2.c0fb3b20.chunk.js": "/madhangog/todoReact/static/js/2.c0fb3b20.chunk.js",
+    "static/js/2.c0fb3b20.chunk.js.map": "/madhangog/todoReact/static/js/2.c0fb3b20.chunk.js.map",
+    "index.html": "/madhangog/todoReact/index.html",
+    "precache-manifest.604cffa2ff7d76869a537d2896440c89.js": "/madhangog/todoReact/precache-manifest.604cffa2ff7d76869a537d2896440c89.js",
+    "service-worker.js": "/madhangog/todoReact/service-worker.js",
+    "static/css/main.63887305.chunk.css.map": "/madhangog/todoReact/static/css/main.63887305.chunk.css.map",
+    "static/media/logo.svg": "/madhangog/todoReact/static/media/logo.5d5d9eef.svg"
+  }
+}
